@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.counter{
+    margin: 200px;
+}
+
+h1{
+    background-color: red;
+    color: violet ;
+    text-align: center;
+    border-radius: 10px;
+}
+p{
+    background-color: orange;
+    color: blue;
+    font-size: 2cm;
+    text-align: center;
+    border-radius: 10px;
+}
+
+button{
+    background-color: yellow;
+    color: green;
+    font-size: large;
+    text-align: center;
+}
+
